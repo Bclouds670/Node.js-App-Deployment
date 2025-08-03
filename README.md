@@ -51,3 +51,4 @@
 ➤ Automate deployment with a reusable shell script.
 
 - 🔹 `deploy.sh`: deploys the application
+- <img width="1914" height="205" alt="Image" src="https://github.com/user-attachments/assets/a24b05ab-f8db-47a7-9ab9-9ab8cbafecbf" />
